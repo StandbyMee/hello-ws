@@ -1,3 +1,4 @@
+//Hope it work
 //导入WebSocket模块
 const WebSocket = require('ws');
 //引用Server类
